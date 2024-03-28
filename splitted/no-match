@@ -1,0 +1,15 @@
+#Non-Adaptive Configurations
+ss://aes-256-gcm:32555148-c38d-4ed4-9998-4f2941153d85@ca-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:e87ca482-66e5-488e-8c7a-ea8eeafaa830@us-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:7df79cc6-a814-455b-9ae4-fdfd6117374a@es-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:09baf3c7-0d19-4f2f-91ad-0f471c109499@sg2-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:2687167b-97bb-4b16-857d-400c85421175@de-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:e4797b99-384a-4455-9009-4bcc8e9a3615@in-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:a7230595-e8dc-415b-a1e9-4ecb3dc4d822@uk-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:32555148-c38d-4ed4-9998-4f2941153d85@ca-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:e87ca482-66e5-488e-8c7a-ea8eeafaa830@us-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:2687167b-97bb-4b16-857d-400c85421175@de-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:7df79cc6-a814-455b-9ae4-fdfd6117374a@es-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:09baf3c7-0d19-4f2f-91ad-0f471c109499@sg2-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:a7230595-e8dc-415b-a1e9-4ecb3dc4d822@uk-full.privateip.net:8443#SHADOWSOCKS
+ss://aes-256-gcm:e4797b99-384a-4455-9009-4bcc8e9a3615@in-full.privateip.net:8443#SHADOWSOCKS

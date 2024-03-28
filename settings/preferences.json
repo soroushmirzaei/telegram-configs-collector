@@ -1,0 +1,19 @@
+{
+    "geo-lite filename": "geoip-lite-country.mmdb",
+    "geo-lite path": "./settings/geoip-lite",
+    "geo-lite url": "https://git.io/GeoLite2-Country.mmdb",
+    "last reset": "1970-01-01 00:00:00.0+03:30",
+    "last update": "1970-01-01 00:00:00.0+03:30",
+    "reset dirs": [
+        "./collected",
+        "./subscribe",
+        "./splitted",
+        "./channels"
+    ],
+    "reset interval": 2592000,
+    "reset last update": 2592000,
+    "channels path": "./settings/database/telegram channels.json",
+    "channels invalid path": "./settings/database/invalid telegram channels.json",
+    "subscribe path": "./settings/database/subscription links.json",
+    "no-match path": "./splitted/no-match"
+}
